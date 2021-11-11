@@ -1,2 +1,3 @@
 # hello-world
-Practice in the GitHub
+  Smth nice.
+  Learn new.
